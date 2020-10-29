@@ -13,3 +13,5 @@ Prerequisites:
  - passlib
  - pyOpenSSL
 
+createfiles.py: Creates test files for the experiment and record processing times to a report file.
+readfiles.py: Reads the files created by createfiles.py and record processing times to a report file.
