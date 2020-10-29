@@ -1,5 +1,5 @@
 # ArchiveSafe
-Python application using FUSE to demonstrate client puzzles usage in archives
+Python application using FUSE to demonstrate client puzzles usage in archives. This application was developed as an evaluation experiment for a research paper https://arxiv.org/abs/2009.00086.
 
 The code is written in pyrhon 3. It is wrapping a FUSE driver from https://github.com/skorokithakis/python-fuse-sample.
 
