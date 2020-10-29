@@ -3,7 +3,7 @@ Python application using FUSE to demonstrate client puzzles usage in archives. T
 
 The code is written in pyrhon 3. It is wrapping a FUSE driver from https://github.com/skorokithakis/python-fuse-sample.
 
-Command to run: python3 MyFuse_D1.py mountpoint root &
+Command to run: python3 ArchiveSafe_D2.py mountpointpath rootpath &
 
 Prerequisites:
  - python3-pip
